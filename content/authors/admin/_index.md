@@ -21,8 +21,7 @@ organizations:
 bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks.
   
 interests:
-- Artificial Intelligence
-- Computational Neuroscience
+- Longevity, Digital Health, Deep Medicine  
 - Brain Networks
 - Complex Resilient Systems
 - Causality
@@ -52,9 +51,9 @@ social:
   link: https://github.com/grjd/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
