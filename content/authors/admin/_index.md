@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fundacionreinasofia.es/EN/proyecto_alzheimer/Paginas/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks.
+bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks. {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
   
 interests:
 - Longevity, Digital Health, Deep Medicine  
