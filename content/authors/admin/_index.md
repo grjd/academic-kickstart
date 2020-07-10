@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jaime Gomez-Ramirez
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,18 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Alzheimer Centre Fundacion Reina Sofia
+  url: "https://www.fundacionreinasofia.es/EN/proyecto_alzheimer/Paginas/default.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Research Scientist, I build AI based solutions applied to Health Care. My research multi-scale mathematical modelling of complex systems, specifically brain networks.
+
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Neuroscience
+- Brain Networks
+- Neuroaesthetics 
 
 education:
   courses:
