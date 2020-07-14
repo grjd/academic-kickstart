@@ -22,10 +22,7 @@ copyright = ""
 #    icon = "cv"
 #    icon_pack = "ai"
 #    link = "static/files/cv.pdf"
-[[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 5    
+ 
 ############################
 ## Advanced options below ##
 ############################
