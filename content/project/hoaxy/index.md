@@ -1,9 +1,9 @@
 +++
-date = "2016-09-13T17:37:04-04:00"
+date = "2020-07-13T17:37:04-04:00"
 math = false
-summary = "Diffusion of digital misinformation and competition with fact-checking information"
+summary = "Epistemology, Probability and Causality"
 tags = ["Twitter", "Hoaxy", "OSoME"]
-title = "Hoaxy"
+title = "Epistemology"
 
 [image]
     focal_point = "Top"
