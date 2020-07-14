@@ -16,19 +16,13 @@ title = "Hoaxy"
 
 ## Description
 
-Most American adults access the news through social media[^1]. Massive amounts
-of low-credibility content have spread over social media before and after the
-2016 US Presidential Elections despite intense fact-checking efforts. How do
-the spread of misinformation and fact-checking compete? What is the impact of
-social bots in the spread of low-credibility content? To explore these
-questions we built Hoaxy, a tool that visualizes the spread and competition of
-digital misinformation and fact-checking on Twitter. Hoaxy is an open platform
-that enables large-scale, systematic studies of how misinformation and
-fact-checking spread and compete on Twitter. Hoaxy captures public tweets that
-include links to articles from low-credibility and fact-checking sources.
-In follow up work, through integration with Botometer, a state-of-the-art
-social bot detection tool, Hoaxy is now capable of visualizing the impact of
-social bots on public Twitter conversations.
+Epistemology from the Greek episteme” and “logos” or _What it was to know_, and _How knowledge is good for the knower_.
+
+Probability Theory
+Machine Learning (Inside the black box)
+Nowcasting and Forecasting
+Big History 
+Causality
 
 Hoaxy is part of the suite of tools of the [Observatory on Social Media <sup><i class="fas fa-external-link-alt"></i></sup>](//osome.iuni.iu.edu/) (OSoMe).
 
