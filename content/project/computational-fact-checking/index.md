@@ -1,9 +1,9 @@
 +++
-date = "2016-09-13T17:38:40-04:00"
+date = "2020-07-13T17:38:40-04:00"
 math = false
-summary = "summary of p1"
-tags = ["11", "12"]
-title = "Project 1"
+summary = "Brain modeling"
+tags = ["brain", "aging"]
+title = "The Brain"
 
 [image]
   caption = ""
@@ -12,13 +12,16 @@ title = "Project 1"
 
 ## Description
 
-THis is the description
+Brain Science, understood as the set of tools, models and theories (alas alas) to come to terms with Cognition and Healthy Aging.
 
-## Software
+## Theory
 
 * [Knowledge Linker <sup><i class="fas fa-external-link-alt"></i></sup>](//github.com/glciampaglia/knowledge_linker)
 * [Knowledge Stream <sup><i class="fas fa-external-link-alt"></i></sup>](//github.com/shiralkarprashant/knowledgestream)
 * [RelSifter <sup><i class="fas fa-external-link-alt"></i></sup>](//github.com/shiralkarprashant/samphire), aka the Samphire Triple Scorer at the [2017 WSDM Cup](//wsdm-cup-2017.org).
+
+## Methodology
+## Software
 
 ## Collaborators
 
