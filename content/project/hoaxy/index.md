@@ -37,7 +37,3 @@ Epistemology from the Greek episteme” and “logos” or _What it was to know_
 
 [comment]: <> Presentation of “Hoaxy/Botometer” at the Knight Foundation Prototype Fund Demo Day, held at ISOJ 2017 in Austin, TX: {{< youtube qZFNjPjTjfE 11819 >}}
 -->
-
-[comment]: <> ## Funding
-
-[comment]: <> 
