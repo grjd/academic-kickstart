@@ -72,7 +72,7 @@ He completed his postdoctoral training in <strong>Japan</strong> at the Biomedic
 
 Professor Gomez-Ramirez <strong>research</strong> is focused on multi-scale mathematical modelling of <strong>complex systems</strong>, specifically <strong>brain networks</strong>. An original aspect of his work is the use of [Category Theory](https://www.springer.com/gp/book/9789400777378) in brain connectivity. Working as a computational neuroscientist, he is interested in foster our understanding of brain networks <strong>dynamics</strong> that what they tell us about <strong>brain healthy aging</strong>. He has a broad training as a experimental and clinical neuroscientist in neuroimaging (fMRI) and electrophysiology (iEEG).
 
-Gomez-Ramírez is also interested in the social science, in particular Economics. Complexity science is likely to transform our understanding of economics and the markets viewd and modeled as Complex Adaptive Systems. 
-Both Science and Art are human attempts to understand the world around us. Although the traditions, "languages" and methods differ,   the motivations and goals are fundamentally the same. We may be closer than ever to bring together the interdisciplinary gap between art and science; and come to terms with the  
-["two cultures"] division (http://www.aslab.org/~sanz/index.php?option=com_content&task=view&id=54&Itemid=29).
+Gomez-Ramírez is also interested in the Social Sciences, in particular Economics. Complexity science is likely to transform our understanding of Economics and the markets viewed and modeled as Complex Adaptive Systems. 
+Both Science and Art are human attempts to understand the world around us. Although the traditions, "languages" and methods differ,   the motivations and goals are fundamentally the same. We may be closer than ever to bringing together the interdisciplinary gap between art and science, also known as the   
+["two cultures"] (http://www.aslab.org/~sanz/index.php?option=com_content&task=view&id=54&Itemid=29).
 
