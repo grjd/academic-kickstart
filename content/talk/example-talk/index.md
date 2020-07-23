@@ -53,7 +53,7 @@ url_slides = ""
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "static/files/kaist-talk-final.pdf"
 url_video = ""
 url_code = ""
 
