@@ -22,9 +22,9 @@ Epistemology from the Greek episteme” and “logos” or _What it was to know_
 
 ## Software
 
-* [Hoaxy Backend <sup><i class="fas fa-external-link-alt"></i></sup>](https://github.com/IUNetSci/hoaxy-backend)
-* [Hoaxy Frontend <sup><i class="fas fa-external-link-alt"></i></sup>](https://github.com/IUNetSci/hoaxy-frontend)
-* [HoaxyBots <sup><i class="fas fa-external-link-alt"></i></sup>](https://github.com/IUNetSci/HoaxyBots)
+* [Do Why <sup><i class="fas fa-external-link-alt"></i></sup>](https://github.com/microsoft/dowhy)
+* [Tutorial on Causal Inference and Counterfactual Reasoning <sup><i class="fas fa-external-link-alt"></i></sup>](https://causalinference.gitlab.io/kdd-tutorial/)
+* [Ananke:A module for causal inference <sup><i class="fas fa-external-link-alt"></i></sup>](https://ananke.readthedocs.io/en/latest/index.html)
 
 ## Collaborators
 
@@ -38,6 +38,6 @@ Epistemology from the Greek episteme” and “logos” or _What it was to know_
 [comment]: <> Presentation of “Hoaxy/Botometer” at the Knight Foundation Prototype Fund Demo Day, held at ISOJ 2017 in Austin, TX: {{< youtube qZFNjPjTjfE 11819 >}}
 -->
 
-## Funding
+[comment]: <> ## Funding
 
-[comment]: <> The project was supported by the [Democracy Fund](//www.democracyfund.org) as part of the [Prototype Fund](https://www.democracyfund.org/blog/entry/20-projects-receive-funding-to-combat-misinformation-and-build-a-more-trust) organized by the [John S. and James L. Knight Foundation](https://knightfoundation.org/press/releases/knight-prototype-fund-awards-1-million-to-20-projects-to-improve-the-flow-of-accurate-information).
+[comment]: <> 
