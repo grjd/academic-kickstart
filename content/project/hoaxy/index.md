@@ -1,8 +1,8 @@
 +++
 date = "2020-07-13T17:37:04-04:00"
 math = false
-summary = "Epistemology, Probability and Causality"
-tags = ["Twitter", "Hoaxy", "OSoME"]
+summary = "Probability and Causality"
+tags = ["Causality", "Probability", "Information"]
 title = "Epistemology"
 
 [image]
@@ -10,23 +10,15 @@ title = "Epistemology"
 
 +++
 
-## Official Project Site
-
-[hoaxy.iuni.iu.edu <sup><i class="fas fa-external-link-alt"></i></sup>](//hoaxy.iuni.iu.edu).
-
 ## Description
 
-Epistemology from the Greek episteme” and “logos” or _What it was to know_, and _How knowledge is good for the knower_.
+Epistemology from the Greek episteme” and “logos” or _What it was to know_, and _How knowledge is good for the knower_. The porject addresses these topics trying to bring new insights into appartently distant topics. We expect that Epistemolgy as a discipline, in tandem with algorithms and the exponentiation of data and computer power will help us to vertebrate a new way of understanding the workd and to build explanatory and predictive models.
 
-Probability Theory
-Machine Learning (Inside the black box)
-Nowcasting and Forecasting
-Big History 
-Causality
-
-Hoaxy is part of the suite of tools of the [Observatory on Social Media <sup><i class="fas fa-external-link-alt"></i></sup>](//osome.iuni.iu.edu/) (OSoMe).
-
-[^1]: J. Gottfried, E. Shearer, _News Use Across Social Media Platforms 2016_, Pew Research Center (2016). Online at: http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/
+- Probability Theory
+- Machine Learning (Inside the black box)
+- Nowcasting and Forecasting
+- Big History 
+- Causality
 
 ## Software
 
@@ -36,27 +28,16 @@ Hoaxy is part of the suite of tools of the [Observatory on Social Media <sup><i 
 
 ## Collaborators
 
-* [Chengcheng Shao](http://shaochengcheng.github.io/) (National University of Defense Technology, P. R. China),
-* [Filippo Menczer](//cnets.indiana.edu/fil) (Indiana University),
-* [Alessandro Flammini](//cnets.indiana.edu/aflammin) (Indiana University)
-* [Mihai Avram](https://pages.iu.edu/~mavram/) (Indiana University),
-* [Onur Varol](http://www.onurvarol.com/) (Indiana University, Northeastern University),
-* [Kaicheng Yang](http://www.kaichengyang.me/) (Indiana University),
-* [Pik-Mai Hui](https://www.linkedin.com/in/pikmaihui/) (Indiana University),
-* [Lei Wang](https://www.linkedin.com/in/lei-wang-ba679483/) (Indiana University),
-* [Gregory Maus](https://www.linkedin.com/in/gregory-maus-016b021b/) (Indiana University),
-* [Valentin Pentchev](https://iuni.iu.edu/people/person/valentin-pentchev) (Indiana University),
-* [Benjamin Serrette](https://iuni.iu.edu/people/person/ben-serrette) (Indiana University)
-* [Liang Chen](http://www.liangdesigner.com/)
+* [Ricardo Sanz](https://www.car.upm-csic.es/authors/cap-ricardo-sanz-bravo) (The Center for Automation and Robotics, Spain),
+* [Manuel G. Bedia](https://janovas.unizar.es/sideral/CV/manuel-gonzalez-bedia) (Universidad de Zaragoza, Spain),
+* [Christopher D. Fiorillo](https://www.sciencemag.org/author/christopher-d-fiorillo) (Korea Advanced Institute of Science and Technology, Korea),
 
 <!--
 ## Presentations
 
-Presentation of “Hoaxy/Botometer” at the Knight Foundation Prototype Fund Demo Day, held at ISOJ 2017 in Austin, TX:
-
-{{< youtube qZFNjPjTjfE 11819 >}}
+[comment]: <> Presentation of “Hoaxy/Botometer” at the Knight Foundation Prototype Fund Demo Day, held at ISOJ 2017 in Austin, TX: {{< youtube qZFNjPjTjfE 11819 >}}
 -->
 
 ## Funding
 
-The project was supported by the [Democracy Fund](//www.democracyfund.org) as part of the [Prototype Fund](https://www.democracyfund.org/blog/entry/20-projects-receive-funding-to-combat-misinformation-and-build-a-more-trust) organized by the [John S. and James L. Knight Foundation](https://knightfoundation.org/press/releases/knight-prototype-fund-awards-1-million-to-20-projects-to-improve-the-flow-of-accurate-information).
+[comment]: <> The project was supported by the [Democracy Fund](//www.democracyfund.org) as part of the [Prototype Fund](https://www.democracyfund.org/blog/entry/20-projects-receive-funding-to-combat-misinformation-and-build-a-more-trust) organized by the [John S. and James L. Knight Foundation](https://knightfoundation.org/press/releases/knight-prototype-fund-awards-1-million-to-20-projects-to-improve-the-flow-of-accurate-information).
