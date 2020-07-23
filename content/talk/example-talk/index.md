@@ -21,7 +21,7 @@ event = "Academic Theme Conference"
 event_url = "https://bioeng.kaist.ac.kr/index.php?mid=bio_06_03&document_srl=10020"
 
 # Abstract. What's your talk about?
-abstract = " _The unreasonable effectiveness of mathematics in natural science_"
+abstract = " The unreasonable effectiveness of mathematics, revisited. Big data and neuroscience"
 
 # Summary. An optional shortened abstract.
 summary = ""
