@@ -2,8 +2,6 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "KAIST, 2020"
-time_start = 2008-04-11:00:00
-time_end = 2008-04-11:00:00
 abstract = "The physicist Eugene Wigner in ”The unreasonable effectiveness of
 mathematics in natural science” [4] observed that the appropriateness
 of mathematics for describing natural phenomena is ”a wonderful gift
