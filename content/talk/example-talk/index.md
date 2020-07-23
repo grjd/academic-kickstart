@@ -1,30 +1,32 @@
 +++
-title = "Example Talk"
+title = "KAIST, 2018"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2030-06-01T13:00:00
-date_end = 2030-06-01T15:00:00
+date = 2018-04-11T13:00:00
+date_end = 2018-04-11T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Jaime Gomez-Ramirez"]
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Daejon, South Korea"
 
 # Name of event and optional event URL.
 event = "Academic Theme Conference"
-event_url = "https://example.org"
+event_url = "https://bioeng.kaist.ac.kr/index.php?mid=bio_06_03&document_srl=10020"
 
 # Abstract. What's your talk about?
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract = "The physicist Eugene Wigner in _The unreasonable effectiveness of mathematics in natural science_ observed that the appropriateness of mathematics for describing natural phenomena is _a wonderful gift which we neither understand nor deserve_. While some have argued this _gift_ is in reality a necessary consequence of the physical world being mathematical, more precisely, the physical world is isomorphic to a mathematical structure that we are in the process of discovering, it is undeniable that the success of mathematics approximating physics contrast strongly with the moderate and slow pace of mathematical modeling in biology and social science.
+In the last years, the emergence of large datasets coupled with the drastic reduction of computational cost and the ubiquity of distributed sensing objects have initiated a new era where the emphasis is not anymore in the correctness, simplicity or elegance of theories, it rather relies on finding conclusions from data (as opposed to theories). Neuroscience has not been any exception to this paradigm shift.
+I will discuss recent progress being made in modeling brain function using machine learning methods, notably deep networks and manifold learning. I will also point out the limitations and problems waiting ahead in computational neuroscience. A satisfactory phenomenological theory of brain function written in mathematical formulae and computationally implemented will still need to help us understand aesthetics, creativity and value. New models and computational architectures that deal with these issues will also be described."
 
 # Summary. An optional shortened abstract.
-summary = "An example talk using Academic's Markdown slides feature."
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false
