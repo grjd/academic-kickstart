@@ -1,6 +1,4 @@
 +++
-date = 2018-04-11T13:00:00  # Schedule page publish date.
-
 title = "KAIST, 2020"
 
 abstract = ""
