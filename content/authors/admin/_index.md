@@ -22,9 +22,8 @@ bio: I build AI based solutions applied to Health Care. My research focuses on m
   
 interests:
 - Longevity, Digital Health, Deep Medicine  
-- Brain Networks
 - Complex Resilient Systems
-- Causality
+- Science for Policy
 
 education:
   courses:
