@@ -14,7 +14,7 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Hospital Clinico San Carlos and Autonomous Systems Laboratory (UPM)
+- name: Neuron to Brain Laboratory (UHN University of Toronto) 
   url: 
 
 # Short bio (displayed in user profile at end of posts)
