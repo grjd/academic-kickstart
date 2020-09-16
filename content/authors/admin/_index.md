@@ -14,7 +14,7 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Neuron to Brain Laboratory (UHN University of Toronto) and Hospital Clinic San Carlos
+- name: Neuron to Brain Laboratory (University of Toronto) and Hospital Clinico San Carlos (Madrid)
   url: 
 
 # Short bio (displayed in user profile at end of posts)
