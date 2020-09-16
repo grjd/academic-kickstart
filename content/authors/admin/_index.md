@@ -14,8 +14,8 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Alzheimer Centre Fundacion Reina Sofia
-  url: "https://www.fundacionreinasofia.es/EN/proyecto_alzheimer/Paginas/default.aspx"
+- name: Hospital Clinico San Carlos and Autonomous Systems Laboratory (UPM)
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks.
