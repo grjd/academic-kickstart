@@ -6,8 +6,9 @@ authors: ["Jaime Gomez-Ramirez", "Tommaso Costa"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-url_pdf: "https://drive.google.com/file/d/1NS2WspBxCuoXoXkE2nnut5VgyjZ1O2gJ/view?usp=sharing"
+url_pdf: "https://drive.google.com/file/d/uc?export=download&id=1NS2WspBxCuoXoXkE2nnut5VgyjZ1O2gJ"
 doi: "https://www.sciencedirect.com/science/article/abs/pii/S0303264717301107"
 publication: "*Biosystems*"
 ---
+
 
