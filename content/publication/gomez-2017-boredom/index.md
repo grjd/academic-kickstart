@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 url_pdf: "https://grjd.netlify.app/files/boredom_begets_creativity_GomezCosta.pdf"
-doi: "https://www.sciencedirect.com/science/article/abs/pii/S0303264717301107"
+doi: "https://doi.org/10.1016/j.biosystems.2017.04.006"
 publication: "*Biosystems*"
 ---
 
