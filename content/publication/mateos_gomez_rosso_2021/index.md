@@ -8,7 +8,7 @@ abstract: "Sleep plays a substantial role in daily cognitive performance, mood, 
 featured: true
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0960077921001508/pdfft?md5=feeb28bdf838e70ac5a5036b28701d5c&pid=1-s2.0-S0960077921001508-main.pdf"
 doi: "https://www.sciencedirect.com/science/article/pii/S0960077921001508?dgcid=coauthor"
-publication: "*Chaos, Solitons & Fractalsosystems*"
+publication: "*Chaos, Solitons & Fractals*"
 ---
 
 
