@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
  {{% alert note %}}
- Discover relevant content by [filtering publications]({{< ref "https://gomezramirez.netlify.app/publication/" >}}).
+ Discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
  {{% /alert %}}
