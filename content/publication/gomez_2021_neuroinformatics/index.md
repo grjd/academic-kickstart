@@ -1,6 +1,6 @@
 ---
 title: "A comparative analysis of MRI automated segmentation of subcortical brain volumes in a large dataset of elderly subjects"
-date: 2021-02-26
+date: 2021-03-30
 publishDate: 2021-02-26T17:41:55.696922Z
 authors: ["Jaime Gómez-Ramı́rez", "Javier Quilis-Sancho", "Miguel A. Fernández-Blázquez"]
 publication_types: ["2"]
