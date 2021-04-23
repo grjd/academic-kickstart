@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
- {{% alert note %}}
- Discover relevant content by [filtering publications]({{< ref "https://gomezramirez.netlify.app/publication/_index.md" >}}).
- {{% /alert %}}
+ [comment]: # {{% alert note %}}
+ [comment]: # Discover relevant content by [filtering publications]({{< ref "https://gomezramirez.netlify.app/publication/_index.md" >}}).
+ [comment]: # {{% /alert %}}
