@@ -15,7 +15,7 @@ role: Professor, Scientist and Engineer
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Cádiz. Instituto de Investigación e Innovación Biomedica de Cádiz
-  url: https://inibica.es/en/
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks.
