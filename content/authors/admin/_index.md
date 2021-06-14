@@ -14,8 +14,8 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Neuron to Brain Laboratory (University of Toronto) and Hospital Clinico San Carlos (Madrid)
-  url: 
+- name: Universidad de Cádiz. Instituto de Investigación e Innovación Biomedica de Cádiz
+  url: https://inibica.es/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I build AI based solutions applied to Health Care. My research focuses on multi-scale mathematical modelling of complex systems, specifically brain networks.
@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Jaime Gomez-Ramirez is a Research Scientist at Neuron to Brain Laboratory and professor at Universidad Complutense de Madrid and Visiting Professor at the University of Turin, Italy. 
+Jaime Gomez-Ramirez is a Research Scientist at the Institute of Research and Innovation in Biomedical Sciences of the University of Cadiz (INiBICA) and professor at Universidad Complutense de Madrid and Visiting Professor at the University of Turin, Italy. 
 He completed his postdoctoral training in <strong>Japan</strong> at the Biomedical Engineering Laboratory, [Okayama University](http://www.biolab.mech.okayama-u.ac.jp/startE.html/), the <strong>USA</strong> at the Centre for Sleep and Consciousness, [University of Wisconsin-Madison](http://centerforsleepandconsciousness.med.wisc.edu/) and <strong>Canada</strong> at The Sickkids Hospital, Department of Neuroscience & Mental Health, [University of Toronto](http://www.sickkids.ca/Research/Neurosciences-and-mental-health/index.html/).
 
 <!-- GOES IN VITA: He was visiting Researcher at the University of California, Berkeley, University of Palermo and the Humboldt University, Berlin.He worked for several years in the private sector as a consultant and as team leader in France and Spain for IT and consulting firms. Since 2004, he has returned to Academia, where he currently continues his role as a Research Scholar and Professor.-->
