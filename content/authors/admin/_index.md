@@ -69,6 +69,8 @@ He completed his postdoctoral training in <strong>Japan</strong> at the Biomedic
 
 <!-- GOES IN VITA: He was visiting Researcher at the University of California, Berkeley, University of Palermo and the Humboldt University, Berlin.He worked for several years in the private sector as a consultant and as team leader in France and Spain for IT and consulting firms. Since 2004, he has returned to Academia, where he currently continues his role as a Research Scholar and Professor.-->
 
+Jaime Gomez-Ramirez is a scientist with experience in the Private Sector IT and in allocation of R&D funding and advising governamental and private bodies in funding innovative science.
+
 Professor Gomez-Ramirez <strong>research</strong> is focused on multi-scale mathematical modelling of <strong>complex systems</strong>, specifically <strong>brain networks</strong>. An original aspect of his work is the use of [Category Theory](https://www.springer.com/gp/book/9789400777378) in brain connectivity. Working as a computational neuroscientist, he is interested in foster our understanding of brain networks <strong>dynamics</strong> that what they tell us about <strong>brain healthy aging</strong>. He has a broad training as a experimental and clinical neuroscientist in neuroimaging (fMRI) and electrophysiology (iEEG).
 
 Gomez-Ramírez is also interested in the Social Sciences, in particular Economics. Complexity science is likely to transform our understanding of Economics and the markets viewed and modeled as Complex Adaptive Systems. 
