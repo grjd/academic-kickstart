@@ -14,7 +14,7 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Cádiz. Instituto de Investigación e Innovación Biomedica de Cádiz
+- name: Universidad de Cadiz. Instituto de Investigacion e Innovacion Biomedica de Cadiz
   url:
 
 # Short bio (displayed in user profile at end of posts)
