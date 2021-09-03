@@ -8,5 +8,5 @@ abstract: "To determine the relative importance of global or regional MRI and bl
 featured: false
 url_pdf: "https://nn.neurology.org/content/nnn/8/6/e1074.full-text.pdf"
 doi: "https://doi.org/10.1212/NXI.0000000000001074 "
-publication: "*Neurology*"
+publication: "Neurology"
 ---
