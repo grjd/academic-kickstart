@@ -8,5 +8,5 @@ abstract: "The goal of this work is to study how brain volume loss at old age is
 featured: false
 url_pdf: "https://www.biorxiv.org/content/10.1101/2020.11.20.391623v1.full.pdf"
 doi: "https://doi.org/10.1101/2020.11.20.391623 "
-publication: "*bioRxiv *"
+publication: "bioRxiv"
 ---
