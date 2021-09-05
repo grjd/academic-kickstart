@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: "The theoretical framework of the Alzheimer's disease continuum considers transition between stages in a unidirectional manner. Here we examine the rate of reversion from mild cognitive impairment (MCI) to normal cognition (NC) and explore a set of potential variables associated with this phenomenon."
 featured: true
 url_pdf: "https://grjd.netlify.app/files/2021_AD_Reversion MCI Markov models_Sanz.pdf"
-doi: "ttps://doi.org/10.1002/alz.12448"
+doi: "https://doi.org/10.1002/alz.12448"
 publication: "Alzheimer's and Dementia"
 ---
