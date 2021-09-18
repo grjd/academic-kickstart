@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Advances in experimental medicine and biology*"
+url_pdf: "https://grjd.netlify.app/files/From Brains to the Machines of the Future_sanz2011.pdf"
+doi: "https://doi.org/10.1007/978-1-4614-0164-3_1"
+
 ---
 
