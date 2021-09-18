@@ -8,6 +8,7 @@ abstract: "The Escherichia coli is a bacterium that comfortingly lives in the hu
 featured: false
 publication: "*Integral Biomathics*"
 tags: ["Artificial Intelligence (incl. Robotics)", "Cell Biology", "Chemotaxis", "Complexity", "Computational Intelligence", "Escherichia coli", "habituation learning", "homeostatic synaptic plasticity", "integral control", "internal model principle", "Mathematical and Computational Biology", "perfect adaptation"]
-url_pdf: "http://link.springer.com/chapter/10.1007/978-3-642-28111-2_5"
+url_pdf: "https://grjd.netlify.app/files/Escherichia_coli_tells.pdf"
+doi: "https://doi.org/10.1007/978-3-642-28111-2_5"
 ---
 
