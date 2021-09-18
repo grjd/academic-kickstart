@@ -8,6 +8,6 @@ abstract: "It goes without saying that in science, experiments are essential; hy
 featured: false
 publication: "*From Brains to Systems*"
 url_pdf: "https://grjd.netlify.app/files/Chapter13_FromB2S.pdf"
-doi: "https://link.springer.com/chapter/10.1007/978-1-4614-0164-3_13"
+doi: "https://doi.org/10.1007/978-1-4614-0164-3_13"
 ---
 
