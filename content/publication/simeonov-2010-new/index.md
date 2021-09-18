@@ -6,6 +6,8 @@ authors: ["Plamen L Simeonov", "Andrée C Ehresmann", "Leslie S Smith", "Jaime G
 publication_types: ["1"]
 abstract: ""
 featured: false
+url_pdf: "https://grjd.netlify.app/files/Simeonovetal2011.pdf"
+doi: "https://doi.org/10.1007/978-3-642-22760-8_21"
 publication: "*European Conference on a Service-Based Internet*"
 ---
 
