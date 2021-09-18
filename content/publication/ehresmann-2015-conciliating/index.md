@@ -6,6 +6,8 @@ authors: ["Andrée C Ehresmann", "Jaime Gomez-Ramirez"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+url_pdf: "https://grjd.netlify.app/files/2Conciliating_neuroscience_and_phenomenol.pdf"
+doi: "https://doi.org/10.1016/j.pbiomolbio.2015.07.004"
 publication: "*Progress in biophysics and molecular biology*"
 ---
 
