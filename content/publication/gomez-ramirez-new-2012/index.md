@@ -8,6 +8,7 @@ abstract: "While it is widely recognised that, on the one hand, reductionistic a
 featured: false
 publication: "*2012 ICME International Conference on Complex Medical Engineering (CME)*"
 tags: ["adaptation", "Artificial neural networks", "biological system normal functioning", "biological system pathological functioning", "biology", "biomedicine", "biophysics", "category theory", "medicine", "Pathology", "robustness", "stability", "system level understanding", "Systems Biology"]
+url_pdf: "https://grjd.netlify.app/files/A new vision for BioMedicine_gomez-ramirez2012.pdf"
 doi: "10.1109/ICCME.2012.6275702"
 ---
 
