@@ -8,5 +8,7 @@ abstract: ""
 featured: false
 publication: "*Cognitive Computation*"
 doi: "10.1007/s12559-012-9128-5"
+url_pdf: "https://grjd.netlify.app/files/gomez-ramirez2012.pdf"
+
 ---
 
