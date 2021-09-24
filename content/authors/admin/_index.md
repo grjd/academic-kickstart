@@ -14,7 +14,7 @@ role: Professor, Scientist and Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Cadiz. Instituto de Investigacion e Innovacion Biomedica de Cadiz
+- name: European Commission. JRC. Centre for Advanced Studies, Science and Art 
   url:
 
 # Short bio (displayed in user profile at end of posts)
