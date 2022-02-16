@@ -1,3 +1,11 @@
+---
+layout: post
+title: Better relevant than right
+date: 2020-04-02 11:59:00-0400
+description: an example of a blog post with comments
+comments: true  
+---
+
 When George Box famously said "All models are wrong, some are useful", he forgot to mention that some can also be harmful. The Covid epidemic gives us insight into what this is so.
 The book _The drunkard's book_ by the physicist Leonard Mlodinow, tells the story of the OJ Simpson trial. Simpson's lawyer, the same hired by  DJ Trump to take him off the hook, this time for the impeachment process, convinced the jury that since the probability that if a woman is found dead the husband is the perpetrator is low, the probability that Simpson murdered his wife was likewise low. The probability estimate that the lawyer brought to court was correct but irrelevant. The relevant piece of information here is that given that a wife is found dead and the husband has antecedents of beating her up, the probability that the husband murdered the wife is high. Thus, _P(wife murdered, husband is the murderer)_ is low but the relevant probability is _P(wife murdered, husband is the murderer| husband is a wife's abuser)_. The jury, persuaded by the lawyer, failed to grasp the enormous difference between a true statement and a relevant one, and the accuser was acquitted. 
 
