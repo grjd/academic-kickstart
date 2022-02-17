@@ -5,7 +5,6 @@ date: 2020-04-02 11:59:00-0400
 description: an example of a blog post with comments
 comments: true  
 ---
-
 When George Box famously said "All models are wrong, some are useful", he forgot to mention that some can also be harmful. 
 <!---The Covid epidemic gives us insight into what this is so.--->
 
@@ -13,14 +12,16 @@ The book [The Drunkard's Walk] (https://en.wikipedia.org/wiki/The_Drunkard%27s_W
 
 While we may fail to reckon when we are wrong, we can nevertheless be quite apt to point out someone else wrongness. The hall of fame of the pitfalls of predictions contains large errors of famous people. For instance, Bill Gates' prediction that personal computer will need no more than 4K of memory, Paul Krugman's wager that the internet's effect on the economy will not be greater than the fax's machine, or the space entrepreneur and ubermensch à la mode Elon Musk early 2020 remark that "is dumb to worry about the virus".
 
-![The coronovirus pamnic is dumb](/path/to/image.png "Elon's tweet March 2020")
+<!---![The coronovirus pamnic is dumb](/path/to/musk_dumb.png.png "Elon's tweet March 2020")--->
 
 Admittedly these misjudgments and pitfalls do not out and in themselves cause harm, and can even have a positive net effect for being a source of pleasure to schadenfreude adepts and Monday morning quarterbacking aficionados.
-There are, however, cases in which an opinion or idea from someone in a position of power or professional prestige can result in great pain and suffering. The internet is an indelible register at planetarian scale, to watch the admonitions and forecasts of some [experts in virology] (https://www.youtube.com/watch?v=CaCRUFo3-Ig) and public health just a few weeks before entire countries were shutdowns and improvised morgues need to be settled to cope with the incessant number of deceased bodies, is a bizarre experience. Wrong models are not necessarily innocuous, they can deliver harm. 
+There are, however, cases in which an opinion or idea from someone in a position of power or professional prestige can result in great pain and suffering. The internet is an indelible register at planetarian scale, to watch the admonitions and forecasts of some [experts in virology](https://www.youtube.com/watch?v=CaCRUFo3-Ig) and public health just a few weeks before entire countries were shutdowns and improvised morgues need to be settled to cope with the incessant number of deceased bodies, is a bizarre experience. Wrong models are not necessarily innocuous, they can deliver harm. 
 
 But, it is enough to be right? Elon Musk corrected his previous misjudgment and rightly said that exponential curves do not occur in the natural world. The Space X CEO reminded us Earthians that a realistic curve of contagion would look more like a sigmoid function, that is, the number of cases will grow fastly but it will reach a saturation point, a plateau, or in today's mediatic parlance, the curve will flatten. This indictment is precisely correct, any biological phenomenon cannot grow exponentially unchecked, metabolic processes are necessarily bounded.
 
-However, Elon's point while right is not relevant. That the contagion curve has a sigmoid shape is besides the point, what really matters is to be able to tell when the curve saturates. If it saturates at 8 billion people deaths it would tell us that human life on planet earth would have ceased to exist. On the other hand, if it saturates at, let us say, 10 million people, for those unaffected it can be business as usual.
+However, Elon's point while right is not relevant. That the contagion curve has a sigmoid shape is beside the point, what really matters is to be able to tell when the curve saturates. If it saturates at 8 billion people deaths it would tell us that human life on planet earth would have ceased to exist. On the other hand, if it saturates at, let us say, 10 million people, for those unaffected it can be business as usual.
 
 An important lesson for scientists and communicators, in general, is that unfortunately, to capture the public's attention you don't need to be right, you need to be relevant. And to do not cause harm or misguide the public you need to be both relevant and right. Nevertheless, there is a final third element to consider. In the attention economy, the principal product of mass media is not education or entertainment but attention, and to capture this most valuable commodity, the message needs to be delivered optimally. Thus, **right, relevant, and well communicated, there are the three indispensable elements to produce an effective change for the better.**
 This is the challenge that scientists need to be prepared for if we want to be listened to by the public and policymakers. 
+
+To continue the conversation on these and related matters, the JRC Science Summit 2022 presents itself as an unique opportunity to explore together the future of science. Let's talk Science!
