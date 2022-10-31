@@ -6,6 +6,8 @@ authors: ["Jaime Gomez Ramirez"]
 publication_types: ["5"]
 abstract: ""
 featured: false
-publication: "*Springer*"
+url_pdf: "https://link.springer.com/content/pdf/10.1007/978-94-007-7738-5.pdf"
+doi: "https://doi.org/10.1007/978-94-007-7738-5"
+publication: "*Springer Dordrecht*"
 ---
 
