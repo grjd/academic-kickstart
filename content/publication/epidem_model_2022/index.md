@@ -1,13 +1,14 @@
-
 ---
-title: "Using time causal quantifiers to characterize sleep stages"
-date: 2021-03-13
-publishDate: 2021-03-13T17:41:55.696922Z
-authors: ["Diego M.Mateos", "Jaime Gómez-Ramı́rez", "Osvaldo A.Rosso"]
+title: "An epidemiological model for mosquito host selection and temperature-dependent transmission of West Nile virus"
+date: 2022-11-20
+publishDate: 2022-11-20T17:41:55.696922Z
+authors: ["Fasana, Augusto", "Ricetti, Nicola", "Angelou,Anastasia", "Gomez-Ramirez, Jaime", "Ferraccioli, Federico", "Kioutsioukis,Ioannis", "Stilianakis, Nikolaos I."]
 publication_types: ["2"]
-abstract: "Sleep plays a substantial role in daily cognitive performance, mood, and memory. The study of sleep has attracted the interest of neuroscientists, clinicians and the overall population, with an increasing number of adults suffering from insufficient amounts of sleep. Sleep is an activity composed of different stages whose temporal dynamics, cycles and interdependencies are not fully understood. Healthy body function and personal well being, however, depends on the proper unfolding and continuance of the sleep cycles. The characterization of the different sleep stages can be undertaken with the development of biomarkers derived from sleep recording. For this purpose, in this work we analyzed single-channel EEG signals from 106 healthy subjects. The signals were quantified using the permutation vector approach using five different-information theoretic measures: i) Shannon’s entropy, ii) MPR statistical complexity, iii) Fisher information, iv) Renyí Min-entropy and v) Lempel-Ziv complexity. The results show that all five information theory-based measures make it possible to quantify and classify the underlying dynamics of the different sleep stages. In addition to this, we combine these measures to show that planes containing pairs of measures, such as the plane composed of Lempel-Ziv and Shannon, have a better performance for differentiating sleep states than measures used individually for the same purpose."
-featured: true
-url_pdf: "https://grjd.netlify.app/files/mateos_gomezramirez_rosso_2021_chaos.pdf"
-doi: "https://doi.org/10.1016/j.chaos.2021.110798"
-publication: "*Chaos, Solitons & Fractals*"
+abstract: "
+We extend a previously developed epidemiological model for West Nile virus (WNV) infection in humans in Greece, employing laboratory-confirmed WNV cases and mosquito-specific characteristics of transmission, such as host selection and temperature-dependent transmission of the virus. Host selection was defined by bird host selection and human host selection, the latter accounting only for the fraction of humans that develop symptoms after the virus is acquired. To model the role of temperature on virus transmission, we considered five temperature intervals (≤ 19.25 °C; > 19.25 and < 21.75 °C; ≥ 21.75 and < 24.25 °C; ≥ 24.25 and < 26.75 °C; and > 26.75 °C). The capacity of the new model to fit human cases and the week of first case occurrence was compared with the original model and showed improved performance. The model was also used to infer further quantities of interest, such as the force of infection for different temperatures as well as mosquito and bird abundances. Our results indicate that the inclusion of mosquito-specific characteristics in epidemiological models of mosquito-borne diseases leads to improved modelling capacity.
+"
+featured: false  
+url_pdf: "https://www.nature.com/articles/s41598-022-24527-5.pdf"
+doi: "https://doi.org/10.1038/s41598-022-24527-5 "
+publication: "Scientific Reports"
 ---
