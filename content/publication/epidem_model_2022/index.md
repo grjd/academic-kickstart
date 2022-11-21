@@ -1,14 +1,15 @@
+
 ---
-title: "An epidemiological model for mosquito host selection and temperature-dependent transmission of West Nile virus"
-date: 2022-11-20
-publishDate: 2022-11-20T17:41:55.696922Z
-authors: ["Fasana, Augusto", "Ricetti, Nicola", "Angelou,Anastasia", "Gomez-Ramirez, Jaime", "Ferraccioli, Federico", "Kioutsioukis,Ioannis", "Stilianakis, Nikolaos I."]
+title: "Prediction of Chronological Age in Healthy Elderly Subjects with Machine Learning from MRI Brain Segmentation and Cortical Parcellation"
+date: 2022-04-28
+publishDate: 2022-04-28T17:41:55.767133Z
+authors: []
+authors: ["Jaime Gómez-Ramírez", "Miguel A. Fernández-Blázquez", "Javier J. González-Rosa"]
 publication_types: ["2"]
-abstract: "
-We extend a previously developed epidemiological model for West Nile virus (WNV) infection in humans in Greece, employing laboratory-confirmed WNV cases and mosquito-specific characteristics of transmission, such as host selection and temperature-dependent transmission of the virus. Host selection was defined by bird host selection and human host selection, the latter accounting only for the fraction of humans that develop symptoms after the virus is acquired. To model the role of temperature on virus transmission, we considered five temperature intervals (≤ 19.25 °C; > 19.25 and < 21.75 °C; ≥ 21.75 and < 24.25 °C; ≥ 24.25 and < 26.75 °C; and > 26.75 °C). The capacity of the new model to fit human cases and the week of first case occurrence was compared with the original model and showed improved performance. The model was also used to infer further quantities of interest, such as the force of infection for different temperatures as well as mosquito and bird abundances. Our results indicate that the inclusion of mosquito-specific characteristics in epidemiological models of mosquito-borne diseases leads to improved modelling capacity.
-"
-featured: false  
-url_pdf: "https://www.nature.com/articles/s41598-022-24527-5.pdf"
-doi: "https://doi.org/10.1038/s41598-022-24527-5 "
-publication: "Scientific Reports"
+publication: "Brain Sci. 2022, 12(5), 579"
+abstract: "Normal aging is associated with changes in volumetric indices of brain atrophy. A quantitative understanding of age-related brain changes can shed light on successful aging. To investigate the effect of age on global and regional brain volumes and cortical thickness, 3514 magnetic resonance imaging scans were analyzed using automated brain segmentation and parcellation methods in elderly healthy individuals (69&ndash;88 years of age). The machine learning algorithm extreme gradient boosting (XGBoost) achieved a mean absolute error of 2 years in predicting the age of new subjects. Feature importance analysis showed that the brain-to-intracranial-volume ratio is the most important feature in predicting age, followed by the hippocampi volumes. The cortical thickness in temporal and parietal lobes showed a superior predictive value than frontal and occipital lobes. Insights from this approach that integrate model prediction and interpretation may help to shorten the current explanatory gap between chronological age and biological brain age.  "
+featured: true
+url_pdf: "https://mdpi-res.com/d_attachment/brainsci/brainsci-12-00579/article_deploy/brainsci-12-00579.pdf?version=1651229821"
+doi: "https://doi.org/10.3390/brainsci12050579"
+
 ---
