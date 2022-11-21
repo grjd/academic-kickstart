@@ -1,6 +1,6 @@
 ---
 title: "An epidemiological model for mosquito host selection and temperature-dependent transmission of West Nile virus"
-date: 2022-11-20
+date: 2022-11-20 
 publishDate: 2022-11-20T17:41:55.696922Z
 authors: ["Fasano, Augusto", "Ricetti, Nicola", "Angelou,Anastasia", "Gomez-Ramirez, Jaime", "Ferraccioli, Federico", "Kioutsioukis,Ioannis", "Stilianakis, Nikolaos I."]
 publication_types: ["2"]
