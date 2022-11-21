@@ -11,4 +11,3 @@ url_pdf: "https://grjd.netlify.app/files/mateos_gomezramirez_rosso_2021_chaos.pd
 doi: "https://doi.org/10.1016/j.chaos.2021.110798"
 publication: "*Chaos, Solitons & Fractals*"
 ---
-
