@@ -9,24 +9,23 @@ title = "Journal of Mind Theory"
 
 ##  Mind and Brain, Artificial Intelligence and Robotics
 
-In the recent and not so recent past, several formal and abstract models have attempted to shed light on the coret topics of Mind and Brain, Robotics and Artificial Intelligence. This has created a vast proliferation of published information, which is currently lacking any one dominant model for understanding the mental processes.
+In the recent and not so recent past, several formal and abstract models have attempted to shed light on the coret topics of **Mind and Brain, Robotics and Artificial Intelligence**. This has created a vast proliferation of published information, which is currently lacking any one dominant model for understanding the mental processes.
 
-The Journal of Mind Theory we try to create is an attempt to tackle these problems.
-
-The JMT journal’s aim is to consolidate and explore these formal and abstract tools for modeling cognitive phenomena, creating a more cohesive and concrete formal approach to understanding the mind/brain, striving for precision and creating clarity in this topic of interest.
+The aim of the Journal of Mind Theory JMT is to consolidate and explore formal and abstract tools for modeling cognitive phenomena. It seeks to create a cohesive and concrete formal approach towards understanding the continuum between the mind and brain, striving for precision and clarity. Additionally, it aims to examine the implications for AI and related disciplines.
 
 For a dialogue between the funding editors of The Journal of Mind Theory on these issues see [Questions on Mind Theory](http://www.aslab.upm.es/~sanz/index.php/2009/02/28/questions-on-mind-theory/)
 
 
 ## Rigor in Cognitive Science
 
-In an effort to consolidate theoretical research in cognitive science, the UPM Autonomous Systems Lab launched in 2008: The Journal of Mind Theory (JMT). The focus of the journal was on precise, succinct, non-interpretable theories of hypotheses on the nature of the mind. The journal was edited by Ricardo Sanz and Jaime Gómez-Ramírez, and the editorial board included well known experts in the fields of cognitive science and machine consciousness, including soem of the .
 
-The journal tried to capture the ongoing activity in the formal science of mind, attempting to pursue the ultimate goal of a unified formal theory of mind, but open to any collateral proposal and not tied to a specific language, background or domain.
+The focus of the journal was on theories and or hypotheses on the nature of the mind. The journal was edited by Professors [Ricardo Sanz](http://www.aslab.upm.es/~sanz/) and [Jaime Gómez-Ramírez](gomezramirez.netlify.app/), and the editorial board included reknown experts in the fields of AI, neuroscience, cognitive science and machine consciousness and others, 
+
+The journal aims to capture the ongoing developments in the formal science of mind, striving towards the ultimate goal of a unified formal theory of mind. It remains open to any relevant proposals, irrespective of specific language, background, or domain.
 
 The first two numbers of the JMT were published in paper and online thanks to a grant from the Spaninsh Government. They included papers from James Albus, Ron Cottan, Pentti Haikonen, Konrad Talmont-Kaminski, Andrée C. Ehresmann, Tariq Samad, Lorenzo Magnani and others.
 
-Unfortunately, due to the personnel and personal circumstances, the journal didn’t have any further history but we don’t consider it dead, but sleeping in wait a of a better opportunity.
+**Unfortunately, due to the personnel and personal circumstances, the journal didn’t have any further history but we don’t consider it dead, but sleeping in wait a of a better opportunity.**
 
 The two first numbers can be downloaded here:
 
@@ -135,11 +134,7 @@ College de France, France
 
 ## Further Information
 
-[JMT post by Ricardo Sanz](http://www.aslab.upm.es/~sanz/index.php/2009/02/28/questions-on-mind-theory/)
-
-
-
-
+For further information about The Journal of Mind Theory, please contact the Editors Ricardo Sanz and Jaime Gomez-Ramirez.
 
 
 
