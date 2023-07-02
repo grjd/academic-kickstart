@@ -79,4 +79,6 @@ The two first numbers can be downloaded here:
 For further information about The Journal of Mind Theory, please contact the Editors Ricardo Sanz and Jaime Gomez-Ramirez.
 
 
+![JMT Logo](https://grjd.netlify.app/img/JMT-0-1.png)
+
 
