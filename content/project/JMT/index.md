@@ -1,7 +1,7 @@
 +++
 date = "2022-07-13T17:28:21-04:00"
 math = true
-summary = "The Journal of Mind Theory"
+summary = "AI, Mind and Brain"
 tags = ["mind theory", "cognition", "brain", "philosophy", "neuroscience"]
 title = "Journal of Mind Theory"
 
