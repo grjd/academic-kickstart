@@ -36,99 +36,41 @@ The two first numbers can be downloaded here:
 
 ## Editorial Board 
 
-Editorial Board
-Albus, James
-George Mason University, USA
 
-Aleksander, Igor
-Imperial College London, UK
+| Name                    | Affiliation                                          | Country   |
+|-------------------------|------------------------------------------------------|-----------|
+| Albus, James            | George Mason University, USA                          | USA       |
+| Aleksander, Igor        | Imperial College London, UK                           | UK        |
+| Anderson, Michael L.    | Franklin & Marshall College, USA                      | USA       |
+| Baars, Bernard          | Neurosciences Institute at La Jolla, USA              | USA       |
+| Baas, Nils              | Norwegian University of Science and Technology, Norway| Norway    |
+| Bedia, Manuel           | University of Zaragoza, Spain                         | Spain     |
+| Bryson, Joanna          | University of Bath, UK                                | UK        |
+| Castelfranchi, Cristiano| Institute of Cognitive Sciences and Technologies, Italy| Italy     |
+| Chella, Antonio         | University of Palermo, Italy                          | Italy     |
+| Chrisley, Ron           | University of Sussex, UK                              | UK        |
+| Cottam, Ron             | Vrije Universiteit Brussel, Belgium                    | Belgium   |
+| Ehresmann, Andrée       | Université de Picardie Jules Verne, France            | France    |
+| Eliasmith, Chris        | Waterloo University, Canada                            | Canada    |
+| Franklin, Stan          | University of Memphis, USA                            | USA       |
+| Freeman, Walter         | University of California, Berkeley, USA                | USA       |
+| Gardenfors, Peter       | University of Lund, Sweden                            | Sweden    |
+| Gomila, Toni            | Universiy of Balearic Islands, Spain                   | Spain     |
+| Gudwin, Ricardo         | University of Campinas, Brazil                        | Brazil    |
+| Haikonen, Pentti        | University of Illinois, USA                           | USA       |
+| Heylighen, Francis      | University of Brussels, Belgium                       | Belgium   |
+| Longo, Giuseppe         | Ecole Normale Supérieure, France                      | France    |
+| López Paniagua, Ignacio | Universidad Politécnica de Madrid, Spain              | Spain     |
+| Mahner, Martin          | Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften e.V., Germany | Germany |
+| Magnani, Lorenzo        | University of Pavia, Italy                            | Italy     |
+| Perlovsky, Leonid       | United States Air Force Research Laboratory, USA       | USA       |
+| Samad, Tariq            | Honeywell, USA                                        | USA       |
+| Scheutz, Mathias        | Indiana University, USA                               | USA       |
+| Sloman, Aaron           | Birmingham University, UK                              | UK        |
+| Talmont-Kaminski, Konrad| Marie Curie-Sklodowska University in Lublin, Poland    | Poland    |
+| Taylor, John            | King’s College London, UK                             | UK        |
+| Wiener, Sidney          | College de France, France                              | France    |
 
-Anderson, Michael L.
-Franklin & Marshall College, USA
-
-Baars, Bernard
-Neurosciences Institute at La Jolla, USA
-
-Baas, Nils
-Norwegian University of Science and Tech- nology, Norway
-
-Bedia, Manuel
-University of Zaragoza, Spain
-
-Bryson, Joanna
-University of Bath, UK
-
-Castelfranchi, Cristiano
-Institute of Cognitive Sciences and Technolo- gies, Italy
-
-Chella, Antonio
-University of Palermo, Italy
-
-Chrisley, Ron
-University of Sussex, UK
-
-Cottam, Ron
-Vrije Universiteit Brussel, Belgium
-
-Ehresmann, Andrée
-Université de Picardie Jules Verne, France
-
-Eliasmith, Chris
-Waterloo University, Canada
-
-Franklin, Stan
-University of Memphis, USA
-
-Freeman, Walter
-University of California, Berkeley, USA
-
-Gardenfors, Peter
-University of Lund, Sweden
-
-Gomila, Toni
-Universiy of Balearic Islands, Spain
-
-Gudwin, Ricardo
-University of Campinas, Brazil
-
-Haikonen, Pentti
-University of Illinois, USA
-
-Heylighen, Francis
-University of Brussels, Belgium
-
-Longo, Giuseppe
-Ecole Normale Supérieure, France
-
-López Paniagua, Ignacio
-Universidad Politécnica de Madrid, Spain
-
-Mahner, Martin
-Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften e.V., Germany
-
-Magnani, Lorenzo
-University of Pavia, Italy
-
-Perlovsky, Leonid
-United States Air Force Research Laboratory, USA
-
-Samad, Tariq
-Honeywell, USA
-
-Scheutz, Mathias
-Indiana University, USA
-
-Sloman, Aaron
-Birmingham University, UK
-
-Talmont-Kaminski, Konrad
-Marie Curie-Sklodowska University in Lublin, Poland
-
-Taylor, John
-King’s College London, UK
-
-Wiener, Sidney
-College de France, France
 
 
 
