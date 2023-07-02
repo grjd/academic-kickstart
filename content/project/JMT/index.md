@@ -29,9 +29,9 @@ The first two numbers of the JMT were published in paper and online thanks to a 
 
 The two first numbers can be downloaded here:
 
-[JMT Vol. 0. No. 1](https://grjd.netlify.app/files/beditor%20JMT_0_1.pdf)  
+[JMT Vol. 0. No. 1](https://grjd.netlify.app/files/editor%20JMT_0_1.pdf)  
 
-[JMT Vol. 0. No. 2](https://grjd.netlify.app/files/beditor%20JMT_0_2.pdf)  
+[JMT Vol. 0. No. 2](https://grjd.netlify.app/files/editor%20JMT_0_2.pdf)  
 
 
 ## Editorial Board 
