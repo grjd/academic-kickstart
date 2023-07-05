@@ -47,7 +47,6 @@ The project aims to harness the power of Algebraic Topology and, more particular
 * [Giotto-TDA](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html) A high-performance topological machine learning toolbox in Python
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) Bindings for the 'Geospatial' Data Abstraction Library
 
-rgdal
 
 ## Collaborators
 
