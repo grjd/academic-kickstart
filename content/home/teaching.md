@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-* Universidad Complutemse de Madrid
+* Universidad Complutense de Madrid
     - Signal Processing 
     - Robotics 
 * Universidad Pontificia de Madrid 
