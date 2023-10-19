@@ -18,7 +18,7 @@ weight = 60
 * Universidad Complutense de Madrid
     - Signal Processing 
     - Robotics 
-* Universidad Pontificia de Madrid 
+* Universidad Pontificia de Comillas (ICAI) 
     - Kinetics and Dynamics of Modeling of Industrial Robots 
     - Intelligent Robots (Programming and simulation)
 * Universita degli Studi di Torino (Scuola di Studi Superiori)
