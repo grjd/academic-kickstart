@@ -19,6 +19,7 @@ location = "Daejeon, South Korea"
 # Name of the event and optional event URL.
 event = "Academic Theme Conference"
 event_url = "https://bioeng.kaist.ac.kr/index.php?mid=bio_06_03&document_srl=10020"
+pdf_link = "https://gomezramirez.netlify.app/files/JRC_Corporate_PPT_Template_16-9ratio.pdf"
 
 # Abstract. What's your talk about?
 abstract = "The physicist Eugene Wigner in The unreasonable effectiveness in natural sciences."
@@ -29,8 +30,8 @@ summary = ""
 # Is this a featured talk? (true/false)
 featured = false
 
-# Add a new field for the PDF link
-pdf_link = "https://gomezramirez.netlify.app/files/JRC_Corporate_PPT_Template_16-9ratio.pdf"
+
+
 
 # Tags (optional).
 # Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
