@@ -19,7 +19,8 @@ location = "Daejeon, South Korea"
 # Name of the event and optional event URL.
 event = "Academic Theme Conference"
 event_url = "https://bioeng.kaist.ac.kr/index.php?mid=bio_06_03&document_srl=10020"
-pdf_link = "https://gomezramirez.netlify.app/files/JRC_Corporate_PPT_Template_16-9ratio.pdf"
+presentation = "Doownload"
+presentation_url = "https://gomezramirez.netlify.app/files/JRC_Corporate_PPT_Template_16-9ratio.pdf"
 
 # Abstract. What's your talk about?
 abstract = "The physicist Eugene Wigner in The unreasonable effectiveness in natural sciences."
