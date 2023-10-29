@@ -25,7 +25,7 @@ abstract = " The unreasonable effectiveness of mathematics, revisited. Big data 
 
 # Summary. An optional shortened abstract.
 summary = ""
-
+ 
 # Is this a featured talk? (true/false)
 featured = false
 
