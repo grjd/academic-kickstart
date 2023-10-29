@@ -1,5 +1,5 @@
 +++
-title = "KAIST, 2018"
+title = "The unreasonable effectiveness of mathematics, revisited. Big data and neuroscience. KAIST, 2018"
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +21,7 @@ event = "Academic Theme Conference"
 event_url = "https://bioeng.kaist.ac.kr/index.php?mid=bio_06_03&document_srl=10020"
 
 # Abstract. What's your talk about?
-abstract = "The unreasonable effectiveness of mathematics, revisited. Big data and neuroscience. The physicist Eugene Wigner in The unreasonable effectiveness in natural sciences."
+abstract = "The physicist Eugene Wigner in The unreasonable effectiveness in natural sciences."
 
 # Summary. An optional shortened abstract.
 summary = ""
