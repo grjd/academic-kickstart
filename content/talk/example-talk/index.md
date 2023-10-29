@@ -6,7 +6,7 @@ title = "KAIST, 2018"
 date = 2018-04-11T13:00:00
 date_end = 2018-04-11T15:00:00
 all_day = false
-+++
+
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
@@ -36,3 +36,4 @@ featured = false
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
++++
