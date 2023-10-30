@@ -4,11 +4,11 @@ title = "The unreasonable effectiveness of mathematics, revisited. Big data and 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
 date = 2018-04-11
-date_end = 2018-04-11
+# date_end = 2018-04-11
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2017-01-01
+#vpublishDate = 2017-01-01
 
 # Authors. Comma-separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jaime Gomez-Ramirez"]
