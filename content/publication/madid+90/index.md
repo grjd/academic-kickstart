@@ -1,6 +1,6 @@
 ---
 title: "TMADRID+90 study on factors associated with longevity: Study design and preliminary data"
-date: 2020-11-20
+date: 2020-11-20 
 publishDate: 2020-11-20T17:41:55.696922Z
 authors: [, "Fernández-Blázquez, Miguel A.", "... ", Gómez-Ramírez, Jaime"]
 publication_types: ["2"]
