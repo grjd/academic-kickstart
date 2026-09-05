@@ -8,6 +8,6 @@ abstract: "We find that in what type of territory individuals live (urban-interm
 featured: false
 doi: "https://doi.org/10.1371/journal.pone.0301325"
 url_pdf: "https://grjd.netlify.app/files/journalpone.0301325.pdf"
-publication: "*PLOS One*"
+publication: "*PLOS One*" 
 ---
 
