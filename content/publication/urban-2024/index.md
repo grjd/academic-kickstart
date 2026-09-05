@@ -6,6 +6,7 @@ authors: ["Assche, Simona Bignami-Van and Ferraccioli, Federico and Riccetti, Ni
 publication_types: ["2"]
 abstract: "We find that in what type of territory individuals live (urban-intermediate-rural) accounts for a significant difference in their probability of dying given SARS-COV-2 infection. Hospitalisation has a large and positive effect on the probability of dying given SARS-CoV-2 infection, but with a gradient across urban, intermediate and rural territories. For those living in rural areas, the risk of dying is lower than in urban areas but only if hospitalisation was not needed; while for those who were hospitalised in rural areas the risk of dying was higher than in urban areas."
 featured: false
+doi: "https://doi.org/10.1371/journal.pntd.0010819](https://doi.org/10.1371/journal.pone.0301325"
 url_pdf: "https://grjd.netlify.app/files/journalpone.0301325.pdf"
 publication: "*PLOS One*"
 ---
