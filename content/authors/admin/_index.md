@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/grjd/
+ - icon: linkedin
+  icon_pack: fab
+  link: https://github.com/grjd/ ](https://www.linkedin.com/in/jaimegomezramirez/
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-9440-7711
